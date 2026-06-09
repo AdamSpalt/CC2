@@ -4,7 +4,7 @@
 ### 1. Document Overview
 * **Project Name:** Contract Compas v2
 * **Objective:** A web application to manage and track personal insurance contracts and subscriptions.
-* **Author:** Adam & Antigravity
+* **Author:** Adam Spaltenstein
 * **Status:** Draft
 
 ---
